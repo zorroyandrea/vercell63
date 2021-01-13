@@ -1,0 +1,4 @@
+baseURL = "https://invitationcardsbeauty50.vercel.app"
+languageCode = "en-us"
+title = "Online Invitation Cards"
+theme = "tale-hugo-master"
